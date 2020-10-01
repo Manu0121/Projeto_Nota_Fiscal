@@ -1,0 +1,38 @@
+.navbar .centro{
+	margin-right: auto;
+	margin-left: auto;
+}
+.data{
+	text-align: center;
+}
+.card{
+	margin-left: 450px;
+	margin-right: 450px;
+	margin-top: 50px;
+}
+.botao{
+	padding-bottom: 17px; 
+}
+.form-control{
+	width: 30px;
+}
+img{
+	
+	width: 60%;
+	max-width:150px;
+    max-height:150px;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+img:hover{
+	-ms-transform:rotate(-10deg);
+	-webkit-transform:rotate(-10deg);
+	-moz-transform:rotate(-10deg);
+	-o-transform: rotate(-10deg);
+	transform: rotate(-10deg);
+}
+.bot{
+	margin-top: 15px;
+	margin-left: 20px;
+}
